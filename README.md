@@ -30,6 +30,8 @@ Update `_sidebar.md`.
 
 Pastikan kamu sudah memiliki akun di Github dan sudah menghubungkan folder ini dengan repositori github pagesmu.
 
+Dan tentunya sudah menginstall git.
+
 Double klik `upload.bat`.
 
 Dokumentasi selengkapnya: <https://docsify.js.org>
