@@ -1,5 +1,9 @@
 # Docsify starter
 
+Docsify hanyalah sebuah file html yang mampu mengolah ratusan file markdown menjadi sebuah website yang sempurna.
+
+Tanpa php, ruby, perl, python, dan bahasa pemrograman server lainnya.
+
 Demo: <https://docsify-starter-mzaini30.netlify.com>
 
 Source: <https://github.com/mzaini30/docsify-starter>
