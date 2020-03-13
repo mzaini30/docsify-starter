@@ -12,6 +12,10 @@ Download repositori ini.
 | makanan.md | /makanan |
 | roti/lumpia.md | /roti/lumpia |
 
+## Setting sidebar
+
+Update `_sidebar.md`.
+
 ## Upload ke git 
 
 Pastikan kamu sudah memiliki akun di Github dan sudah menghubungkan folder ini dengan repositori github pagesmu.
