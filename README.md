@@ -20,6 +20,8 @@ Download repositori ini.
 
 Update `_sidebar.md`.
 
+!> Jangan meletakkan link eksternal di sidebar karena akan membuat error plugin search.
+
 ## Upload ke git 
 
 Pastikan kamu sudah memiliki akun di Github dan sudah menghubungkan folder ini dengan repositori github pagesmu.
