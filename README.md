@@ -1,5 +1,9 @@
 # Docsify starter
 
+## Pemakaian pertama
+
+Download repositori ini.
+
 ## Manajemen file
 
 | File | URL |
@@ -9,6 +13,8 @@
 | roti/lumpia.md | /roti/lumpia |
 
 ## Upload ke git 
+
+Pastikan kamu sudah memiliki akun di Github dan sudah menghubungkan folder ini dengan repositori github pagesmu.
 
 Double klik `upload.bat`.
 
