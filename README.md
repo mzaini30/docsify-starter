@@ -36,18 +36,9 @@ Double klik `upload.bat`.
 
 ## Menggunakan server
 
-?> Cara ini hanya untuk sekali saja. Setelah itu, akan terinstall di sistem selama masih ada `TINY` di Task Manager
+?> Sebelum menggunakan cara ini, cek dulu apakah `localhost` sudah kita gunakan. Kalau belum, lakukan langkah di bawah.
 
-Buka `server.bat`.
-
-Kamu akan mendapatkan:
-
-```
-set lokasi="D:\latihan\docsify-starter"
-plugin\tinyweb\tiny %lokasi%
-```
-
-Ubah lokasi dengan lokasi folder ini. Lalu double klik.
+Double klik `server.bat`.
 
 Untuk mengaksesnya, kamu cukup membuka `localhost` di browser.
 
