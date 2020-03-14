@@ -42,4 +42,6 @@ Double klik `server.bat`.
 
 Untuk mengaksesnya, kamu cukup membuka `localhost` di browser.
 
+Untuk mematikannya, matikan proses di task manager pada aplikasi yang bernama `tiny`.
+
 Dokumentasi selengkapnya: <https://docsify.js.org>
