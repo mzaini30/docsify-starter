@@ -34,4 +34,21 @@ Dan tentunya sudah menginstall git.
 
 Double klik `upload.bat`.
 
+## Menggunakan server
+
+?> Cara ini hanya untuk sekali saja. Setelah itu, akan terinstall di sistem selama masih ada `TINY` di Task Manager
+
+Buka `server.bat`.
+
+Kamu akan mendapatkan:
+
+```
+set lokasi="D:\latihan\docsify-starter"
+plugin\tinyweb\tiny %lokasi%
+```
+
+Ubah lokasi dengan lokasi folder ini. Lalu double klik.
+
+Untuk mengaksesnya, kamu cukup membuka `localhost` di browser.
+
 Dokumentasi selengkapnya: <https://docsify.js.org>

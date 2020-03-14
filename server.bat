@@ -1,1 +1,2 @@
-plugin\tinyweb\tiny . 8099
+set lokasi="D:\latihan\docsify-starter"
+plugin\tinyweb\tiny %lokasi%
