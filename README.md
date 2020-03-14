@@ -20,6 +20,10 @@ Download repositori ini.
 | makanan.md | /makanan |
 | roti/lumpia.md | /roti/lumpia |
 
+## Konfigurasi
+
+Untuk konfigurasi, semua ada di `index.html`. Edit sesuai kebutuhan.
+
 ## Setting sidebar
 
 Update `_sidebar.md`.
