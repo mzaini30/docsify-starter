@@ -20,6 +20,10 @@ Download repositori ini.
 | makanan.md | /makanan |
 | roti/lumpia.md | /roti/lumpia |
 
+## Konfigurasi
+
+Untuk konfigurasi, semua ada di `index.html`. Edit sesuai kebutuhan.
+
 ## Setting sidebar
 
 Update `_sidebar.md`.
@@ -41,5 +45,7 @@ Double klik `upload.bat`.
 Double klik `server.bat`.
 
 Untuk mengaksesnya, kamu cukup membuka `localhost` di browser.
+
+Untuk mematikannya, matikan proses di task manager pada aplikasi yang bernama `tiny`.
 
 Dokumentasi selengkapnya: <https://docsify.js.org>
